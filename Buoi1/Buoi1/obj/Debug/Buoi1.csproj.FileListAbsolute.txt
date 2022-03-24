@@ -9,3 +9,6 @@ E:\LuuDuLieuSinhVien\TranCaoTung\Buoi1\Buoi1\obj\Debug\Buoi1.exe
 E:\LuuDuLieuSinhVien\TranCaoTung\Buoi1\Buoi1\obj\Debug\Buoi1.pdb
 E:\LuuDuLieuSinhVien\TranCaoTung\Buoi1\Buoi1\obj\Debug\Buoi1.Form2.resources
 E:\LuuDuLieuSinhVien\TranCaoTung\Buoi1\Buoi1\obj\Debug\Buoi1.Form3.resources
+C:\Users\Administrator\Desktop\DemoTaoNhom\Buoi1\Buoi1\bin\Debug\Buoi1.exe.config
+C:\Users\Administrator\Desktop\DemoTaoNhom\Buoi1\Buoi1\obj\Debug\Buoi1.exe
+C:\Users\Administrator\Desktop\DemoTaoNhom\Buoi1\Buoi1\obj\Debug\Buoi1.pdb
